@@ -2,7 +2,7 @@ title: UH Class Critics
 description: Budget RateMyProfessors
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 github:
   is_project_page: true
   repository_url: https://github.com/uh-class-critics/uh-class-critics.github.io
