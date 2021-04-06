@@ -29,11 +29,14 @@ Generally, we would like each review to have:
 
 Ideally, we want our service to look something like the following:
 
-page
+Course Review Page
 
 <img src="images/example-homepage1.png">
 
-page
+Professor Page
 
 <img src="images/example-homepage2.png">
 
+Write Review Page
+
+<img src="images/example-homepage3.png">
