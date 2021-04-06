@@ -31,18 +31,25 @@ Generally, we would like each review to have:
 - A textual description of the course.
 - Cost of course (materials, textbooks, etc.)
 - Average number of hours spent studying per week.
+- Final grade
 
 
 Ideally, we want our service to look something like the following:
 
 ## Course Review Page
 
+An overview of the course, proving informationg about the methology applied in the course, and the students' experience.
+
 <img src="images/example-homepage1.png">
 
 ## Professor Page
 
+Students who have taken those classes will be able to provide a feedback about their professors, rating them, and advising future students.
+
 <img src="images/example-homepage2.png">
 
 ## Write Review Page
+
+In this page, the student will be able to either rate the professor or the course. He can choose the level of difficulty, provide information about the materials used, format of the class, his final grade, etc.
 
 <img src="images/example-homepage3.png">
