@@ -6,9 +6,15 @@ Our goal is to provide a convenient and readily accessible website where student
 
 <img src="images/texting.jpg">
 
-### Current State of development
+### Current Vision for Development
 
-Currently, we are in the stage of developing this service for all students at UH. 
+Currently, we are in the stage of developing this service for all students at UH. Our vision for the layout of this service will reflect features such as:
 
-Ideally, we want our service to look something like the following: [insert image]
+- Landing Page
+- Sign in/Sign up Page
+- Browse Classes Page
+- Rate Course Page
+- Rate Professor Page
+
+Ideally, we want our service to look something like the following: (insert image)
 
