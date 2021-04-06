@@ -13,8 +13,19 @@ Currently, we are in the stage of developing this service for all students at UH
 - Landing Page
 - Sign in/Sign up Page
 - Browse Classes Page
-- Rate Course Page
-- Rate Professor Page
+- Review Course Page
+- Review Professor Page
+
+Generally, we would like each review to have:
+
+- The semester the course was taken.
+- The class name
+- The professor’s name
+- Various star ratings (Difficulty, Importance to major, etc)
+- A textual description of the course.
+- Cost of course (materials, textbooks, etc.)
+- Average number of hours spent studying per week.
+
 
 Ideally, we want our service to look something like the following: (insert image)
 
