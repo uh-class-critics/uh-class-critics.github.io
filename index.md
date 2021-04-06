@@ -27,5 +27,13 @@ Generally, we would like each review to have:
 - Average number of hours spent studying per week.
 
 
-Ideally, we want our service to look something like the following: (insert image)
+Ideally, we want our service to look something like the following:
+
+page
+
+<img src="images/example-homepage1.png">
+
+page
+
+<img src="images/example-homepage2.png">
 
