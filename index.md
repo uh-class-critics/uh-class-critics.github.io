@@ -36,23 +36,41 @@ Generally, we would like each review to have:
 
 Ideally, we want our service to look something like the following:
 
-## Course Review Page
+## Landing Page
 
-An overview of the course, proving informationg about the methology applied in the course, and the students' experience.
+Description
 
-<img src="images/example-homepage1.png">
+<img src="landing-mockup.png"`>
 
-## Professor Page
+## Browse Professors Page
+
+Description
+
+<imc src="browse-professors-mockup.png">
+
+## Browse Courses Page
+
+Descrpition
+
+<img src="coures-page-mockup.png">
+
+## Professor Overview Page
 
 Students who have taken those classes will be able to provide a feedback about their professors, rating them, and advising future students.
 
-<img src="images/example-homepage2.png">
+<img src="professor-overview-mockup.png">
 
 ## Write Review Page
 
 In this page, the student will be able to either rate the professor or the course. He can choose the level of difficulty, provide information about the materials used, format of the class, his final grade, etc.
 
-<img src="images/example-homepage3.png">
+<img src="images/write-review-mockup.png">
+
+## Sign Up Page
+
+Descrpition
+
+<img src="signup-mockup.png"/>
 
 ## Team
 
