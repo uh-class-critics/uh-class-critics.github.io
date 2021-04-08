@@ -75,7 +75,8 @@ In this page, the student will be able to write reviews for the professor they h
 - [Ana Araujo](https://acatarinaoaraujo.github.io/)
 - Hi, I am Ana. I am a undergraduate student enrolled at the University of Hawaii at Manoa. I have been studying Computer Science for 3 years. My goal for this project is to practice all the things I have learn while taking Software Engineering I. 
 - [Steven Le](https://sle417.github.io/)
-  - Currently a sophomore studying Computer Science at UH Manoa. I have interests in software engineering, computer graphics, informatoin technology and plan to graduate in Spring 2023. 
+  - Currently a sophomore studying Computer Science at UH Manoa. I have interests in software engineering, computer graphics, information technology and plan to graduate in Spring 2023. 
 - [John Suelen](https://johnsuelen.github.io/)
+  - Sophomore, ICS, UH Manoa, Interests: Video Games, Software Development, Game Development, Plan to graduate in Spring 2023
 - [Johnny Ho](https://johnny-ho1.github.io/)
 - [Zi Jun Huang](https://zijunhuang-1.github.io/)
