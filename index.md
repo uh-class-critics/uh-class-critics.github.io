@@ -74,6 +74,7 @@ In this page, the student will be able to write reviews for the professor they h
 [UH Class Critics](https://github.com/uh-class-critics/uh-class-critics) will be designed, implemented, and maintained by 
 - [Ana Araujo](https://acatarinaoaraujo.github.io/)
 - [Steven Le](https://sle417.github.io/)
+  - Currently a sophomore studying Computer Science at UH Manoa. I have interests in software engineering, computer graphics, informatoin technology and plan to graduate in Spring 2023. 
 - [John Suelen](https://johnsuelen.github.io/)
 - [Johnny Ho](https://johnny-ho1.github.io/)
 - [Zi Jun Huang](https://zijunhuang-1.github.io/)
