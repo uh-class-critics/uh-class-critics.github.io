@@ -40,7 +40,7 @@ Ideally, we want our service to look something like the following:
 
 Description
 
-<img src="landing-mockup.png"`>
+<img src="landing-mockup.png">
 
 ## Browse Professors Page
 
