@@ -17,9 +17,10 @@ The data obtained from the reviews are generally used as constructive comments t
 Currently, we are in the stage of developing this service for all students at UH. You can view our repo [here](https://github.com/uh-class-critics/uh-class-critics). Our vision for the layout of this service will reflect features such as:
 
 - Landing Page
+- Browse Professor Page
+- Professor Overview Page
 - Sign in/Sign up Page
-- Browse Classes Page
-- Review Course Page
+- Courses Page
 - Review Professor Page
 
 Generally, we would like each review to have:
@@ -38,37 +39,33 @@ Ideally, we want our service to look something like the following:
 
 ## Landing Page
 
-Description
-
 <img src="images/landing-mockup.png">
 
 ## Browse Professors Page
 
-Description
+Students will be able to look through a catalog of professors at UH Manoa and be able to sort instructors based on the department they work under.
 
 <img src="images/browse-professors-mockup.png">
 
 ## Browse Courses Page
 
-Description
+With the dropdown functionality in the NavBar for Browse Courses, Students will be able to select a department and then it will display a page with courses specific for that department
 
 <img src="images/courses-page-mockup.png">
 
 ## Professor Overview Page
 
-Students who have taken those classes will be able to provide a feedback about their professors, rating them, and advising future students.
+Students who have taken those classes will be able to view information about the professor like their ratings, reviews, courses taught, etc. 
 
 <img src="images/professor-overview-mockup.png">
 
 ## Write Review Page
 
-In this page, the student will be able to either rate the professor or the course. He can choose the level of difficulty, provide information about the materials used, format of the class, his final grade, etc.
+In this page, the student will be able to write reviews for the professor they have taken, giving them a rating, and providing feedback for other students who visit the professor's page.
 
 <img src="images/write-review-mockup.png">
 
 ## Sign Up Page
-
-Descrpition
 
 <img src="images/signup-mockup.png"/>
 
