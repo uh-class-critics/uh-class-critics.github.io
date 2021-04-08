@@ -40,25 +40,25 @@ Ideally, we want our service to look something like the following:
 
 Description
 
-<img src="landing-mockup.png">
+<img src="images/landing-mockup.png">
 
 ## Browse Professors Page
 
 Description
 
-<imc src="browse-professors-mockup.png">
+<imc src="images/browse-professors-mockup.png">
 
 ## Browse Courses Page
 
-Descrpition
+Description
 
-<img src="coures-page-mockup.png">
+<img src="images/courses-page-mockup.png">
 
 ## Professor Overview Page
 
 Students who have taken those classes will be able to provide a feedback about their professors, rating them, and advising future students.
 
-<img src="professor-overview-mockup.png">
+<img src="images/professor-overview-mockup.png">
 
 ## Write Review Page
 
@@ -70,7 +70,7 @@ In this page, the student will be able to either rate the professor or the cours
 
 Descrpition
 
-<img src="signup-mockup.png"/>
+<img src="images/signup-mockup.png"/>
 
 ## Team
 
