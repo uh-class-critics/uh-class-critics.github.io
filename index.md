@@ -12,9 +12,9 @@ In general, all professors expect their students to develop complex skills in th
 The data obtained from the reviews are generally used as constructive comments that serve to assess the development of a teacher. In this way, professors who are underperforming will have the opportunity to self-assess, improve their performance, and help to maintain the quality of an educational institution. When students are satisfied with the methodology, they will identify the most efficient teachers to always maintain the high quality of the education.
 
 
-### Current Vision for Development
+## Current Vision for Development
 
-Currently, we are in the stage of developing this service for all students at UH. Our vision for the layout of this service will reflect features such as:
+Currently, we are in the stage of developing this service for all students at UH. You can view our repo [here](https://github.com/uh-class-critics/uh-class-critics). Our vision for the layout of this service will reflect features such as:
 
 - Landing Page
 - Sign in/Sign up Page
@@ -53,3 +53,7 @@ Students who have taken those classes will be able to provide a feedback about t
 In this page, the student will be able to either rate the professor or the course. He can choose the level of difficulty, provide information about the materials used, format of the class, his final grade, etc.
 
 <img src="images/example-homepage3.png">
+
+## Team
+
+UH Class Critics will be designed, implemented, and maintained by [Ana Araujo](https://acatarinaoaraujo.github.io/), [Steven Le](https://sle417.github.io/), [John Suelen](https://johnsuelen.github.io/), [Johnny Ho](https://johnny-ho1.github.io/), and [Zi Jun Huang](https://zijunhuang-1.github.io/)
