@@ -56,4 +56,4 @@ In this page, the student will be able to either rate the professor or the cours
 
 ## Team
 
-UH Class Critics will be designed, implemented, and maintained by [Ana Araujo](https://acatarinaoaraujo.github.io/), [Steven Le](https://sle417.github.io/), [John Suelen](https://johnsuelen.github.io/), [Johnny Ho](https://johnny-ho1.github.io/), and [Zi Jun Huang](https://zijunhuang-1.github.io/)
+[UH Class Critics](https://github.com/uh-class-critics/uh-class-critics) will be designed, implemented, and maintained by [Ana Araujo](https://acatarinaoaraujo.github.io/), [Steven Le](https://sle417.github.io/), [John Suelen](https://johnsuelen.github.io/), [Johnny Ho](https://johnny-ho1.github.io/), and [Zi Jun Huang](https://zijunhuang-1.github.io/)
