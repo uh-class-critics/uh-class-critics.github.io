@@ -46,7 +46,7 @@ Description
 
 Description
 
-<imc src="images/browse-professors-mockup.png">
+<img src="images/browse-professors-mockup.png">
 
 ## Browse Courses Page
 
