@@ -79,4 +79,5 @@ In this page, the student will be able to write reviews for the professor they h
 - [John Suelen](https://johnsuelen.github.io/)
   - Sophomore, ICS, UH Manoa, Interests: Video Games, Software Development, Game Development, Plan to graduate in Spring 2023
 - [Johnny Ho](https://johnny-ho1.github.io/)
+  - Currently a Sophmore at UH Manoa, interested in data science, data mining, game development and plan to graduate in Spring 2023.
 - [Zi Jun Huang](https://zijunhuang-1.github.io/)
