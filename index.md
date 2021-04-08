@@ -73,7 +73,7 @@ In this page, the student will be able to write reviews for the professor they h
 
 [UH Class Critics](https://github.com/uh-class-critics/uh-class-critics) will be designed, implemented, and maintained by 
 - [Ana Araujo](https://acatarinaoaraujo.github.io/)
-- Hi, I am Ana. I am a undergraduate student enrolled at the University of Hawaii at Manoa. I have been studying Computer Science for 3 years. My goal for this project is to practice all the things I have learn while taking Software Engineering I. 
+  - Hi, I am Ana. I am a undergraduate student enrolled at the University of Hawaii at Manoa. I have been studying Computer Science for 3 years. My goal for this project is to practice all the things I have learn while taking Software Engineering I. 
 - [Steven Le](https://sle417.github.io/)
   - Currently a sophomore studying Computer Science at UH Manoa. I have interests in software engineering, computer graphics, information technology and plan to graduate in Spring 2023. 
 - [John Suelen](https://johnsuelen.github.io/)
