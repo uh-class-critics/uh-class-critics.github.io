@@ -56,7 +56,7 @@ Students will be able to look through a catalog of professors at UH Manoa and be
 
 With the dropdown functionality in the NavBar for Browse Courses, Students will be able to select a department and then it will display a page with courses specific for that department
 
-<img src="images/courses-page-mockup.png">
+<img src="images/browse-courses.png">
 
 ## Professor Overview Page
 
