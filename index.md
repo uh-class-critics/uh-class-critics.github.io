@@ -10,10 +10,19 @@ In general, all professors expect their students to develop complex skills in th
 
 The data obtained from the reviews are generally used as constructive comments that serve to assess the development of a teacher. In this way, professors who are underperforming will have the opportunity to self-assess, improve their performance, and help to maintain the quality of an educational institution. When students are satisfied with the methodology, they will identify the most efficient teachers to always maintain the high quality of the education.
 
+## Milestones
+
+Milestones will be used to track our progress throughout the semester.
+
+###
+[Milestone 1](https://github.com/uh-class-critics/uh-class-critics/projects/1)
+
+###
+[Milestone 2](https://github.com/uh-class-critics/uh-class-critics/projects/3)
 
 ## Deployment
 
-UH Class Critics is currently deployed on DigitalOcean and you can view our application [here](http://164.90.147.173/). Furthermore, for those who want to check out our template, our [GitHub repository](https://github.com/uh-class-critics/uh-class-critics) is also available for those who want to view our source code. 
+UH Class Critics is currently deployed on DigitalOcean and you can view our application [here](http://165.232.144.133/#/). Furthermore, for those who want to check out our template, our [GitHub repository](https://github.com/uh-class-critics/uh-class-critics) is also available for those who want to view our source code. 
 
 As we progress through the development of this web application, our vision for the layout of UH Class Critics will reflect the following features and pages:
 
