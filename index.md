@@ -68,7 +68,7 @@ Students who have taken those classes will be able to view information about the
 
 In this page, the student will be able to write reviews for the professor they have taken, giving them a rating, and providing feedback for other students who visit the professor's page.
 
-<img src="images/write-review-mockup.png">
+<img src="images/weview-mockup.png">
 
 ## Sign Up Page
 
