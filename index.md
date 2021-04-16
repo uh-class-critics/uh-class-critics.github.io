@@ -74,6 +74,11 @@ In this page, the student will be able to write reviews for the professor they h
 
 <img src="images/signup-mockup.png"/>
 
+# Sign In Page
+
+<img src="images/signin-mockup.png"/>
+
+
 ## Team
 
 [UH Class Critics](https://github.com/uh-class-critics/uh-class-critics) will be designed, implemented, and maintained by 
