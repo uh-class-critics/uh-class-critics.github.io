@@ -14,10 +14,8 @@ The data obtained from the reviews are generally used as constructive comments t
 
 Milestones will be used to track our progress throughout the semester.
 
-###
 [Milestone 1](https://github.com/uh-class-critics/uh-class-critics/projects/1)
 
-###
 [Milestone 2](https://github.com/uh-class-critics/uh-class-critics/projects/3)
 
 ## Deployment
