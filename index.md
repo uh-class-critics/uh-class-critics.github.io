@@ -18,7 +18,7 @@ The data obtained from the reviews are generally used as constructive comments t
 
 ## Deployment
 
-UH Class Critics is currently deployed on DigitalOcean and you can view our application [here](http://165.232.144.133/#/). Furthermore, for those who want to check out our template, our [GitHub repository](https://github.com/uh-class-critics/uh-class-critics) is also available for those who want to view our source code. 
+UH Class Critics is currently deployed on DigitalOcean and you can view our application [here](http://143.198.106.189/). Furthermore, for those who want to check out our template, our [GitHub repository](https://github.com/uh-class-critics/uh-class-critics) is also available for those who want to view our source code. 
 
 As we progress through the development of this web application, our vision for the layout of UH Class Critics will reflect the following features and pages:
 
