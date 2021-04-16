@@ -10,9 +10,7 @@ In general, all professors expect their students to develop complex skills in th
 
 The data obtained from the reviews are generally used as constructive comments that serve to assess the development of a teacher. In this way, professors who are underperforming will have the opportunity to self-assess, improve their performance, and help to maintain the quality of an educational institution. When students are satisfied with the methodology, they will identify the most efficient teachers to always maintain the high quality of the education.
 
-## Milestones
-
-Milestones will be used to track our progress throughout the semester.
+## Keeping Track of Our Progress
 
 [Milestone 1](https://github.com/uh-class-critics/uh-class-critics/projects/1)
 
