@@ -50,6 +50,8 @@ Here is a sample of some of the pages we have developed during this project:
 
 Students will be able to look through a catalog of professors at UH Manoa and be able to sort instructors based on the department they work under. In this page, the student will be able to write reviews for the professor they have taken, and providing feedback for other students who visit the professor's page.
 
+Note: In order to see the professors page, we must sign in as john@foo.com. It is an issue we are currently working on.
+
 <img src="images/professorlist.png">
 
 
