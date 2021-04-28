@@ -45,11 +45,11 @@ The first page that is seem when visiting our website will be the following. It 
 
 <img src="images/landing-mockup.png">
 
-### Browse Professors Page
+### Browse Professors Page and Review
 
-Through this page, students will be able to look through a catalog of professors at UH Manoa and be able to write reviews for different professors for different departments.
+Through this page, students will be able to look through a catalog of professors at UH Manoa and be able to write reviews for different professors for different departments. In this page, the student will be able to write reviews for the professor they have taken, giving them a rating, and providing feedback for other students who visit the professor's page.
 
-<img src="images/browse-professors-mockup.png">
+<img src="images/listprofessor.png">
 
 ### Browse Courses Page
 
@@ -63,11 +63,6 @@ Students who have taken those classes will be able to view information about the
 
 <img src="images/professor-overview-mockup.png">
 
-### Write Review Page
-
-In this page, the student will be able to write reviews for the professor they have taken, giving them a rating, and providing feedback for other students who visit the professor's page.
-
-<img src="images/review-mockup.png">
 
 ### Sign Up Page
 
