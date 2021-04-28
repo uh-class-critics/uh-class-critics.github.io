@@ -49,13 +49,14 @@ The first page that is seem when visiting our website will be the following. It 
 
 Through this page, students will be able to look through a catalog of professors at UH Manoa and be able to write reviews for different professors for different departments. In this page, the student will be able to write reviews for the professor they have taken, giving them a rating, and providing feedback for other students who visit the professor's page.
 
+<img src="images/chooseDepartment.png">
+
 <img src="images/professorlist.png">
 
 ### Browse Courses Page
 
 Within the Browse Courses Page, students will be able to select a department and then it will display a page with courses specific for that department.
 
-<img src="images/chooseDepartment.png">
 
 <img src="images/browse-courses.png">
 
