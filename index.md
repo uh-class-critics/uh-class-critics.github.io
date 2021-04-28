@@ -101,8 +101,6 @@ For this project, we are using GitHub's built in projects feature to track our p
 
 ## Team
 
-UH Class Critics is developed and maintained by the following team members
-
 [UH Class Critics](https://github.com/uh-class-critics/uh-class-critics) will be designed, implemented, and maintained by 
 - [Ana Araujo](https://acatarinaoaraujo.github.io/)
   - Hi, I am Ana. I am an undergraduate student enrolled at the University of Hawaii at Manoa. I am in my junior year, expecting to graduate in Spring 2022. My interests are Software Development, Criminal Justice, and Economy.
