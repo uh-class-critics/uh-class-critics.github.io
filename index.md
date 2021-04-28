@@ -46,9 +46,9 @@ Here is a sample of some of the pages we have developed during this project:
 
 <img src="images/landing-mockup.png">
 
-## Browse Professors Page
+## Browse Professors Page and Write A Review
 
-Students will be able to look through a catalog of professors at UH Manoa and be able to sort instructors based on the department they work under.
+Students will be able to look through a catalog of professors at UH Manoa and be able to sort instructors based on the department they work under. In this page, the student will be able to write reviews for the professor they have taken, and providing feedback for other students who visit the professor's page.
 
 <img src="images/browse-professors-mockup.png">
 
@@ -56,7 +56,7 @@ Students will be able to look through a catalog of professors at UH Manoa and be
 
 With the dropdown functionality in the NavBar for Browse Courses, Students will be able to select a department and then it will display a page with courses specific for that department
 
-<img src="images/browse-courses.png">
+<img src="images/professorlist.png">
 
 ## Professor Overview Page
 
@@ -64,20 +64,17 @@ Students who have taken those classes will be able to view information about the
 
 <img src="images/professor-overview-mockup.png">
 
-## Write Review Page
-
-In this page, the student will be able to write reviews for the professor they have taken, giving them a rating, and providing feedback for other students who visit the professor's page.
-
-<img src="images/review-mockup.png">
 
 ## Sign Up Page
 
 <img src="images/signup-mockup.png"/>
 
-# Sign In Page
+## Sign In Page
 
 <img src="images/signin-mockup.png"/>
 
+## Signed Off
+<img src="images/signedoff.png"/>
 
 ## Team
 
