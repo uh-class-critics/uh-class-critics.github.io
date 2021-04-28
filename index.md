@@ -55,6 +55,8 @@ Through this page, students will be able to look through a catalog of professors
 
 Within the Browse Courses Page, students will be able to select a department and then it will display a page with courses specific for that department.
 
+<img src="images/chooseDepartment.png">
+
 <img src="images/browse-courses.png">
 
 ### Professor Overview Page
