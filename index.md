@@ -50,13 +50,8 @@ Here is a sample of some of the pages we have developed during this project:
 
 Students will be able to look through a catalog of professors at UH Manoa and be able to sort instructors based on the department they work under. In this page, the student will be able to write reviews for the professor they have taken, and providing feedback for other students who visit the professor's page.
 
-<img src="images/browse-professors-mockup.png">
-
-## Browse Courses Page
-
-With the dropdown functionality in the NavBar for Browse Courses, Students will be able to select a department and then it will display a page with courses specific for that department
-
 <img src="images/professorlist.png">
+
 
 ## Professor Overview Page
 
