@@ -91,15 +91,15 @@ This page displays the informations of developers who have worked on the project
 ## Admin Functionality
 If you have admin features on this website, there are a few differences that you may notice when logging in. The first thing you will notice is changes in the navbar where two new options appear. 
 
-<img src ="images/adminNav.png"/>
+<img src ="images/adminNav.PNG"/>
 
 When clicking on Add Professor, the admin will be able to input a new professor into the database for reviewing. Regular users will be able to see a new professor in the same format as the professors already listed in the browse professors page.
 
-<img src = "images/addProfessor.png"/>
+<img src = "images/newProfessor.PNG"/>
 
 Similarly to Add Professor, clicking on Add Courses will provide a similar experience for the admin. New courses added by the admin will also be provided for regular users in the same format as previously input courses.
 
-<img src = "images/addCourses.png/>
+<img src = "images/newCourse.PNG"/>
 
 ## Developer Guide
 
