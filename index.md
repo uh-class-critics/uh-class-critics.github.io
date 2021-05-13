@@ -33,7 +33,7 @@ The data obtained from the reviews are generally used as constructive comments t
 
 Our deployed application can be found here at [class-critics.xyz](https://class-critics.xyz/)
 
-Our UH Class Critics GitHub Organization can also be found at here at [github.com](https://github.com/uh-class-critics)
+Our UH Class Critics GitHub Organization can also be found at here at [github](https://github.com/uh-class-critics)
 
 ## User Guide
 
@@ -87,6 +87,19 @@ Returning users can log in here and keep using our features!
 This page displays the informations of developers who have worked on the project. 
 
 <img src="images/team.jpg"/>
+
+## Admin Functionality
+If you have admin features on this website, there are a few differences that you may notice when logging in. The first thing you will notice is changes in the navbar where two new options appear. 
+
+<img src ="images/adminNav.png"/>
+
+When clicking on Add Professor, the admin will be able to input a new professor into the database for reviewing. Regular users will be able to see a new professor in the same format as the professors already listed in the browse professors page.
+
+<img src = "images/addProfessor.png"/>
+
+Similarly to Add Professor, clicking on Add Courses will provide a similar experience for the admin. New courses added by the admin will also be provided for regular users in the same format as previously input courses.
+
+<img src = "images/addCourses.png/>
 
 ## Developer Guide
 
