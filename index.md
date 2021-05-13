@@ -43,41 +43,43 @@ This section will provide a brief walkthrough of the UH Class Critics website an
 
 The first page that is seem when visiting our website will be the following. It allows users to grasp the concept of our website and be able to login and sign up.
 
-<img src="images/landing-mockup.png">
-
-### Browse Professors Page and Review
-
-Through this page, students will be able to look through a catalog of professors at UH Manoa and be able to write reviews for different professors for different departments. In this page, the student will be able to write reviews for the professor they have taken, giving them a rating, and providing feedback for other students who visit the professor's page.
-
-<img src="images/chooseDepartment.png">
-
-<img src="images/professorlist.png">
-
-### Browse Courses Page
-
-Within the Browse Courses Page, students will be able to select a department and then it will display a page with courses specific for that department.
-
-
-<img src="images/browse-courses.png">
+<img src="images/homepage.jpg">
 
 ### Professor Overview Page
 
 Students who have taken those classes will be able to view information about the professor like their ratings, reviews, courses taught, etc. 
 
-<img src="images/professor-overview-mockup.png">
+<img src="images/professor_page.jpg">
 
+### Professor Review Page
+
+Student can write the review for a professor and rate the professor on this page. 
+
+<img src="images/certain_professor.jpg">
+
+### Browse Courses Page
+
+Within the Browse Courses Page, students will be able to select a course and then it will display a page that displays the course information and reviews.
+
+<img src="images/browse_course.jpg">
+
+### Course Review Page
+
+Student can write the review for a course and rate the course on this page. 
+
+<img src="images/certain_course.jpg">
 
 ### Sign Up Page
 
 New incoming users will be able to register for an account at UH Class Critics if they don't have one.
 
-<img src="images/signup-mockup.png"/>
+<img src="images/signup.jpg"/>
 
 Returning users can log in here and keep using our features!
 
 ### Sign In Page
 
-<img src="images/signin-mockup.png"/>
+<img src="images/login.jpg"/>
 
 ## Developer Guide
 
