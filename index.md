@@ -5,6 +5,7 @@
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
+* [Community Feedback](#community-feedback)
 * [Team](#team)
 
 ## Overview
@@ -104,6 +105,48 @@ For this project, we are using GitHub's built in projects feature to track our p
 * [Milestone 1](https://github.com/uh-class-critics/uh-class-critics/projects/1)
 * [Milestone 2](https://github.com/uh-class-critics/uh-class-critics/projects/3)
 * [Milestone 3](https://github.com/uh-class-critics/uh-class-critics/projects/4)
+
+## Community Feedback
+
+Functionality: 3
+> Seeing as it only includes the ICS, I do not see how the site could be useful to me in its current state as I am an Architecture major. If the team decides to expand on its selection, then I could see myself seeing this website. Like a farmers market, buying products that were made for the people, by the people, does have its merits. For now, I'll stick to ol' reliable, ratemyprofessors.
+Ease-of-Use: 5
+> Pretty intuitive, just click the Professors tab at the top, choose one, and write a review. There really is nothing to mess up.
+Cleanliness: 5
+> Easy on the eyes, not too much clutter. I like how having a background picture on the page did not become a theme and was just present on a few pages.
+- Taylee Kelly
+
+Functionality: 4
+> Would give full marks if I were minoring in ICS, however I have no plan to do so. The site does what the team set out to make it do.
+Ease-of-Use: 5
+> Without any instruction, I was able to navigate the site freely without feeling lost.
+Cleanliness: 5
+> On pages without a bunch of objects, there's a background image to fill the empty space, and on pages with a bunch of stuff, the page just has that stuff without a background image. Idk if that was intended but seems like a good choice.
+- Kaila Pojas
+
+Functionality: 5
+> It does what I was told it was supposed to do. Not only can you critique classes, as suggested by its name, but you can also critique professors. 
+Ease-of-Use: 5
+> Since I've used ratemyprofessors before, using this website was a breeze. 
+Cleanliness: 4
+> It's clean, but it's pretty empty to begin with. Some stuff could have been placed better but overall nothing is in the way to worsen the experience. 
+- Shelby Hom
+
+Functionality: 3
+> I am not an ICS student so I have no say in how a professor in this field performs. Although I am not unable to submit a review, solely based on this discrepancy, I must dock points for functionality. For a site called UH Class Critics, being only able to critique classes of one department of UH seems laughable. Overall, seems like a decent website.
+Ease-of-Use: 4
+> Pretty simple, nothing too complex. It's like filling out a Google Form or something. 
+Cleanliness: 2
+> It's clean in the same way an apartment that you just moved into is clean. 
+- Harold Calventas
+
+Functionality: 5
+> I give a score, write a review, hit submit, and it stays there! Like an actual site. It's still there when I go to different pages. I was kinda spooked when I was told to press F12, but seeing all this stuff like "Meteor" and "Minimongo" was kinda fascinating.
+Ease-of-Use: 5
+> Simple site simple use. The labeled tabs at the top tell you exactly where you're going and there was never a feeling of like breaking the site. Multiple ways of getting to the same page seems kind of redundant but at the same time user friendly in a sense.
+Cleanliness: 4
+> Clean but looks generic. Like it uses a template or something, but there's nothing wrong with that. Maybe in the future things could be customized further or something like that.
+- Valerie Suelen
 
 ## Team
 
