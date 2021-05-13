@@ -33,7 +33,7 @@ The data obtained from the reviews are generally used as constructive comments t
 
 Our deployed application can be found here at [class-critics.xyz](https://class-critics.xyz/)
 
-Our UH Class Critics GitHub Organization can also be found at here at [github](https://github.com/uh-class-critics)
+Our UH Class Critics GitHub Organization can also be found at here at [GitHub](https://github.com/uh-class-critics)
 
 ## User Guide
 
