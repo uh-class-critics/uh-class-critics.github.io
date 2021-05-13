@@ -75,15 +75,15 @@ New incoming users will be able to register for an account at UH Class Critics i
 
 <img src="images/signup.jpg"/>
 
-Returning users can log in here and keep using our features!
-
 ### Sign In Page
+
+Returning users can log in here and keep using our features!
 
 <img src="images/login.jpg"/>
 
 ### Team 
 
-This page displays the developers who have worked on the project. 
+This page displays the informations of developers who have worked on the project. 
 
 <img src="images/team.jpg"/>
 
