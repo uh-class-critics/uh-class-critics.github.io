@@ -108,6 +108,8 @@ For this project, we are using GitHub's built in projects feature to track our p
 
 ## Community Feedback
 
+Overall, seeing as the reviewers are students themselves, having used ratemyprofessors is expected of them. They were able to use the website with a great amount of ease with this experience. All of the reviewers not being in the ICS department took a toll on the functionality part of the survey. Thanks to meteor-application-template-react the website is a lot cleaner than it would have been without it, so the cleanliness score is quite high.
+
 Functionality: 3
 > Seeing as it only includes the ICS, I do not see how the site could be useful to me in its current state as I am an Architecture major. If the team decides to expand on its selection, then I could see myself seeing this website. Like a farmers market, buying products that were made for the people, by the people, does have its merits. For now, I'll stick to ol' reliable, ratemyprofessors.
 
