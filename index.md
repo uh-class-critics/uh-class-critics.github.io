@@ -53,7 +53,7 @@ Students who have taken those classes will be able to view information about the
 
 ### Professor Review Page
 
-Student can write the review for a professor and rate the professor on this page. 
+Student can write the review for a professor and rate the professor on this page. Below the review is the previous reviews of the professor. 
 
 <img src="images/certain_professor.jpg">
 
@@ -65,7 +65,7 @@ Within the Browse Courses Page, students will be able to select a course and the
 
 ### Course Review Page
 
-Student can write the review for a course and rate the course on this page. 
+Student can write the review for a course and rate the course on this page. Below the review is the pervious reviews of the course.  
 
 <img src="images/certain_course.jpg">
 
@@ -80,6 +80,12 @@ Returning users can log in here and keep using our features!
 ### Sign In Page
 
 <img src="images/login.jpg"/>
+
+### Team 
+
+This page displays the developers who have worked on the project. 
+
+<img src="images/team.jpg"/>
 
 ## Developer Guide
 
