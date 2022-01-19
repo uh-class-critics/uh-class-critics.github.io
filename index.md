@@ -44,31 +44,25 @@ This section will provide a brief walkthrough of the UH Class Critics website an
 
 The first page that is seem when visiting our website will be the following. It allows users to grasp the concept of our website and be able to login and sign up.
 
-<img src="images/homepage.jpg">
+<img src="images/homepage.png">
 
 ### Professor Overview Page
 
 Students who have taken those classes will be able to view information about the professor like their ratings, reviews, courses taught, etc. 
 
-<img src="images/professor_page.jpg">
+<img src="images/professors.png">
 
 ### Professor Review Page
 
 Student can write the review for a professor and rate the professor on this page. Below the Write a Review section is the previous reviews of the professor. 
 
-<img src="images/certain_professor.jpg">
+<img src="images/review.png">
 
 ### Browse Courses Page
 
 Within the Browse Courses Page, students will be able to select a course and then it will display a page that displays the course information and reviews.
 
-<img src="images/browse_course.jpg">
-
-### Course Review Page
-
-Student can write the review for a course and rate the course on this page. Below the Write a Review section is the pervious reviews of the course.  
-
-<img src="images/certain_course.jpg">
+<img src="images/courses.png">
 
 ### Sign Up Page
 
@@ -89,17 +83,13 @@ This page displays the informations of developers who have worked on the project
 <img src="images/team.jpg"/>
 
 ## Admin Functionality
-If you have admin features on this website, there are a few differences that you may notice when logging in. The first thing you will notice is changes in the navbar where two new options appear. 
+If you have admin features on this website, there are a few differences that you may notice when logging in. The first thing you will notice is changes in the navbar where two new options appear. When clicking on Add Professor, the admin will be able to input a new professor into the database for reviewing. Regular users will be able to see a new professor in the same format as the professors already listed in the browse professors page.
 
-<img src ="images/adminNav.PNG"/>
-
-When clicking on Add Professor, the admin will be able to input a new professor into the database for reviewing. Regular users will be able to see a new professor in the same format as the professors already listed in the browse professors page.
-
-<img src = "images/newProfessor.PNG"/>
+<img src = "images/new_professor.png"/>
 
 Similarly to Add Professor, clicking on Add Courses will provide a similar experience for the admin. New courses added by the admin will also be provided for regular users in the same format as previously input courses.
 
-<img src = "images/newCourse.PNG"/>
+<img src = "images/new-course.png"/>
 
 ## Developer Guide
 
